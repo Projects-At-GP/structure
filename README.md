@@ -1,6 +1,6 @@
 # Structure
 Every project should have the following structure:
-```txt
+```yml
 [PROJECT-NAME]
 ├── [PROJECT-NAME]
 │   └ *[PROJECT-FILES]
